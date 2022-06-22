@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class Game implements Serializable{
     private int id = 0, challengeId = 0, status = 0, winner = 0;
