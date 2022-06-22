@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class Question implements  Serializable{
     private int id = 0, no = 0, value = 0, gameId = 0;
