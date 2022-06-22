@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class ClientController {
     private User user = null;
