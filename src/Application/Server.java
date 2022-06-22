@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class Server {
     public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
