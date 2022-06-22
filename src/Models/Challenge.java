@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class Challenge implements Serializable{
     private int id, from, to, status = 0;
