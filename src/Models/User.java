@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class User implements Serializable{
     private int id=0, win=0, lose=0, status=0;
