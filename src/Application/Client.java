@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class Client {
 
