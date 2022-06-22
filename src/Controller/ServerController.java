@@ -19,7 +19,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author iahk1510
+ * @author ADMIN
  */
 public class ServerController {
     private ServerSocket serverSocket = null;
